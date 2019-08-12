@@ -1,0 +1,15 @@
+.header-home-link, .header-home-link:hover {
+    color: white;    
+}
+.category-label, .category-label:hover {
+    background-color: gray;
+    border-radius: 3px;
+    color: white;
+    font-size: 12px;
+    padding: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+html { 
+    overflow-y: scroll; 
+}
